@@ -9,6 +9,7 @@ This whole program boils down to a simple print operation like in Python or any 
 Create a mirror image of a binary sequence  #a.asm
 
 Using the rcr and rcl command, this code creates a mirror image of the given numbers.
-for example:
-                    10010101
-                    10101001
+for example:    10010101
+                10101001
+
+                   
