@@ -1,3 +1,14 @@
+merge arrays
+
+Merge sorted arrays into a new sorted array + display them.
+
+
+
+
+
+
+
+
 Displacement Code of the Cursor:
 
 This code moves the cursor according to the following movements:
